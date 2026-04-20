@@ -72,7 +72,7 @@ API_KEY=your_api_key_here
 ## 🌐 Deployment
 
 This app has been deployed on Streamlit Cloud.
-access link : 
+access link : https://hr-policy-bot-kuuoynzkctb9u5c6acd2pw.streamlit.app/
 
 ---
 

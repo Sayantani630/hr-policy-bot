@@ -71,7 +71,8 @@ API_KEY=your_api_key_here
 
 ## 🌐 Deployment
 
-This app can be deployed easily on Streamlit Cloud.
+This app has been deployed on Streamlit Cloud.
+access link : 
 
 ---
 
